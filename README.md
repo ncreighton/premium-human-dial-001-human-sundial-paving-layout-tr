@@ -1,0 +1,2 @@
+# premium-human-dial-001-human-sundial-paving-layout-tr
+Stop guessing where to place paving stones for your human sundial—this Notion template eliminates the geometry headaches and ensures your shadow markers align with true solar time, every time.  The Human Sundial Paving Layout Tracker turns a complex, error-prone outdoor project into a step-by-step, trackable process. It automatically calculates sha
